@@ -13,10 +13,7 @@ Pipeline of select representative image dataset from a large dataset using 2 dif
 
 ### Dependencies
 * Python 3
-* Flask
-* sqlalchemy
-* wtform
-* psycopg2
+* Tensorflow
 
 ### Installing
 
